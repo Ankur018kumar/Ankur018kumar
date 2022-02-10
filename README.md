@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **angularjs and reactjs**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **mern stack**
 
 - 📫 How to reach me **rjankur7050@gmailcom**
 
